@@ -1,4 +1,4 @@
-## 📱💾👱🏽‍♂️ Yasmin Moraes
+# 👩🏻‍💻💾💻 Yasmin Moraes
 
 **`Desenvolvedor FullStack `**
 
