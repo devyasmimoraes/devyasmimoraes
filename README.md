@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack `**
 
-Me chamo Yasmim Moraes. Atualmente, estou no 3º semestre do curso de Análise e Desenvolvimento de Sistemas na UNAMA. Sou apaixonada por tecnologia e acredito no poder da inclusão para transformar o futuro. Sou presidente da LovelaceTech, uma liga criada com o propósito de colocar meninas de frente para a tecnologia — com projetos que vão desde a solução de pequenos problemas do dia a dia até desafios maiores da sociedade. Além disso, buscamos qualificá-las para que possam conquistar seu espaço na área.
+Me chamo Yasmim Moraes. Atualmente, estou no 4º semestre do curso de Análise e Desenvolvimento de Sistemas na UNAMA. Sou apaixonada por tecnologia e acredito no poder da inclusão para transformar o futuro. Sou presidente da LovelaceTech, uma liga criada com o propósito de colocar meninas de frente para a tecnologia — com projetos que vão desde a solução de pequenos problemas do dia a dia até desafios maiores da sociedade. Além disso, buscamos qualificá-las para que possam conquistar seu espaço na área.
 
 Mas não pense que a LovelaceTech é só para meninas — os meninos também são muito bem-vindos! Aqui, o importante é colaborar, aprender e crescer juntos. Também participo da LIMAP (Liga da Maratona de Programação), onde continuo contribuindo com o desenvolvimento técnico e a troca de experiências entre alunos e professores.
 
