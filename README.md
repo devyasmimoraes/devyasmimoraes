@@ -2,21 +2,24 @@
 
 **`Desenvolvedor FullStack `**
 
-🌸 Oie! Aqui é a Dev Yas 💻
+O Gemini disse
+Combinado! Tirei a parte da LIMAP e dei uma ajustada na frase para manter o super destaque nas suas vitórias em hackathons.
 
-Atualmente estou no 4º semestre de Análise e Desenvolvimento de Sistemas na UNAMA 🎓
-Sou apaixonada por tecnologia e acredito de verdade no poder da inclusão pra transformar o futuro 💫
+Aqui está a nova versão:
 
-💜 Sou presidente da LovelaceTech, uma liga criada pra colocar meninas de frente pra tecnologia — com projetos que vão desde pequenas soluções do dia a dia até desafios maiores da sociedade. Nosso propósito é empoderar, qualificar e inspirar mulheres a conquistarem seu espaço na área!
-Mas não pense que a LovelaceTech é só pra meninas 👩🏽‍💻👨🏽‍💻
-Aqui todo mundo é bem-vindo — o importante é colaborar, aprender e crescer juntos 🌱
+Oie! Aqui é a Dev Yas 💻
 
-🏆 Também faço parte da LIMAP (Liga da Maratona de Programação), onde sigo evoluindo tecnicamente e trocando experiências com uma galera incrível 🤝
+Sou formada em Análise e Desenvolvimento de Sistemas e, atualmente, estou no 5º semestre de Ciência da Computação 🎓 Sou apaixonada por tecnologia e acredito de verdade no poder da inclusão pra transformar o futuro 💫
 
-👮🏽‍♀️ Atualmente trabalho como estagiária na Polícia Civil do Estado do Pará, atuando com Docker, PHP, Laravel, Vue.js e APIs — cada dia é uma nova oportunidade pra aprender algo diferente 💡
+💜 Sou presidente da LovelaceTech, uma liga criada pra colocar meninas de frente pra tecnologia — com projetos que vão desde pequenas soluções do dia a dia até desafios maiores da sociedade. Nosso propósito é empoderar, qualificar e inspirar mulheres a conquistarem seu espaço na área! Mas não pense que a LovelaceTech é só pra meninas 👩🏽‍💻👨🏽‍💻 Aqui todo mundo é bem-vindo — o importante é colaborar, aprender e crescer juntos 🌱
 
-☁️ Tenho um grande interesse pelas áreas de Computação em Nuvem e Dados, e estou me certificando em Cloud Practitioner — dando mais um passo nessa jornada de aprendizado e crescimento 🚀
+🏆 Já venci diversos hackathons — o mais recente focado em Inteligência Artificial pela IA2 (Canadá)! Sigo evoluindo tecnicamente e trocando experiências com uma galera incrível 🤝
 
+🌟 Para além das ligas, atuo como voluntária em diversos eventos de TI pelo estado do Pará e sou contribuidora do projeto Elas na Tecnologia, sempre buscando fortalecer a nossa comunidade e impulsionar novos talentos!
+
+📈 Atualmente trabalho na GPX Investimentos (escritório da XP Investimentos), atuando com análise de dados, automatização e desenvolvimento web — cada dia é uma nova oportunidade pra criar soluções e inovar 💡
+
+☁️ Tenho um grande foco nas áreas de Dados e Computação em Nuvem. Já possuo a certificação AWS re/Start e continuo dando novos passos nessa jornada de aprendizado e crescimento contínuo 🚀
 <p align="left">
     <a href="https://github.com/devyasmimoraes?tab=followers">
         <img 
