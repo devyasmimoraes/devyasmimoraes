@@ -2,11 +2,6 @@
 
 **`Desenvolvedor FullStack `**
 
-O Gemini disse
-Combinado! Tirei a parte da LIMAP e dei uma ajustada na frase para manter o super destaque nas suas vitórias em hackathons.
-
-Aqui está a nova versão:
-
 Oie! Aqui é a Dev Yas 💻
 
 Sou formada em Análise e Desenvolvimento de Sistemas e, atualmente, estou no 5º semestre de Ciência da Computação 🎓 Sou apaixonada por tecnologia e acredito de verdade no poder da inclusão pra transformar o futuro 💫
