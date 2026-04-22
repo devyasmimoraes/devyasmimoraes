@@ -27,8 +27,11 @@ Sou formada em AnÃ¡lise e Desenvolvimento de Sistemas e, atualmente, estou no 5Â
     <a href="https://github.com/devyasmimoraes?tab=followers">
         <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/devyasmimoraes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/yasmimoraes_/" target="_blank">
-        <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-@yasmimoraes_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <a href="https://www.linkedin.com/in/yasmim-moraes-/" target="_blank">
+        <img alt="LinkedIn" title="Conecte-se no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/_devyas_/?hl=pt-br" target="_blank">
+        <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-@_devyas_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 </p>
 
